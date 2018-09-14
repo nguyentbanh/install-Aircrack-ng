@@ -76,6 +76,10 @@ find the airport <interface> sniff <channel> line and get the four number on the
  
 <blockquote><p>sudo kill -9 "the-four-number"</p></blockquote> 
 
+<h3>Reference</h3>
+https://www.aircrack-ng.org/doku.php?id=newbie_guide
+https://www.aircrack-ng.org/doku.php?id=install_aircrack#installing_on_mac_osx
+https://maymay.net/blog/2010/12/05/one-minute-mac-tip-sniffing-wi-fi-traffic-and-capturing-packets-with-the-built-in-airport-utility/
 
 
 
