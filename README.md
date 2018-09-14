@@ -1,4 +1,4 @@
-# install-Aircrack-ng, Sniffing by Airport, and using Aircracking-ng on Mac
+# Install Aircrack-ng, Sniffing by Airport, and using Aircracking-ng on Mac
 
 <h2>1. Install HomeBrew</h2> 
 at https://brew.sh by terminal. Paste that at a Terminal prompt.
