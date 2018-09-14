@@ -41,7 +41,7 @@ Use the following command to check:
 
   Sniff the channel selected.
 
-<blockquote><p>airport <interface> sniff <channel></p></blockquote>
+<blockquote><p> airport "interface" sniff "channel" </p></blockquote>
 
   <interface> is the name of the wifi card. Mine is "en0". Get this from 
 ifconfig
@@ -58,7 +58,7 @@ Then we will pass this file to aircrack-ng
 
 <h2>5. Using Aircrack-ng</h2>
 
-<blockquote><p>aircrack-ng -1 -a 1 -b <BSSID> <cap_file> -w <wordlist></p></blockquote>
+<blockquote><p>aircrack-ng -1 -a 1 -b "BSSID" "cap_file" -w "wordlist"</p></blockquote>
 
       -1            : run only 1 try to crack key with PTW  
       -a <amode>    : force attack mode (1/WEP, 2/WPA-PSK)
@@ -74,7 +74,7 @@ Then we will pass this file to aircrack-ng
 
 find the airport <interface> sniff <channel> line and get the four number on the left
  
-<blockquote><p>sudo kill -9 <the four number></p></blockquote> 
+<blockquote><p>sudo kill -9 "the-four-number"</p></blockquote> 
 
 
 
