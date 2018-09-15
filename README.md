@@ -1,10 +1,13 @@
 # Install Aircrack-ng, Sniffing by Airport, and using Aircracking-ng on Mac
 
 <h2>1. Install HomeBrew</h2> 
-at https://brew.sh by terminal. Paste that at a Terminal prompt.
-
+<p>at https://brew.sh by terminal. Paste that at a Terminal prompt.</p>
 
 <blockquote><p>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</p></blockquote>
+
+To uninstall Homebrew use this:
+<blockquote><p>ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall)"
+</p></blockquote>
 
 <h2>2. Install the aircrack-ng and create necessary links:</h2>
 
